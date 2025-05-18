@@ -60,3 +60,15 @@ As organizations move from isolated AI initiatives to enterprise-scale integrati
 
 ---
 
+## 🔗 Related Work
+
+- [AI Digital Trust and Strategic Communications Framework](https://github.com/aleshancira/-digital-trust-framework)
+
+---
+
+## 📖 License
+
+This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.  
+You are free to share and adapt the material for any purpose, even commercially, under the terms of attribution.  
+Full license text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
